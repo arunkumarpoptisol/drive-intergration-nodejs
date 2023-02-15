@@ -1,0 +1,24 @@
+{
+  "name": "google-classroom-intergration-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arunkumarpoptisol/google-classroom-intergration-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arunkumarpoptisol/google-classroom-intergration-nodejs/issues"
+  },
+  "homepage": "https://github.com/arunkumarpoptisol/google-classroom-intergration-nodejs#readme",
+  "dependencies": {
+    "@googleapis/classroom": "^1.0.1",
+    "express": "^4.18.2",
+    "google-auth-library": "^8.7.0"
+  }
+}
